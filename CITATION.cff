@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: BTC-MAP Brain Tumor Classification Framework
+message: If you use this code, please cite the associated research article.
+authors:
+  - family-names: YourLastName
+    given-names: YourFirstName
+version: 1.0
+date-released: 2026-01-01
+url: https://github.com/yourusername/BTC-MAP
+
+preferred-citation:
+  type: article
+  title: BTC-MAP: A Unified Machine Learning Framework for MRI-Based Brain Tumor Classification with PCA-Optimized Feature Extraction
+  authors:
+    - family-names: YourLastName
+      given-names: YourFirstName
+  year: 2026
